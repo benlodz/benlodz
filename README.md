@@ -1,4 +1,15 @@
 # Hi, my name is Ben! It's nice to see you! :penguin:
+I'm an undergraduate studying Computer Information Systems at Baruch College
+
+## :notebook: Interests 
+<ul>
+	<li> :game_die: Game Development </li>
+	<li> :octocat: Functional Programming </li>
+	<li> :free: FOSS </li>
+	<li> :japanese_goblin: Japanese language </li>
+</ul>
+
+## Statistics
 
 ![Tux Pengiun!](tux-linux-penguin.gif)
 [![my stats](https://github-readme-stats.vercel.app/api?username=benlodz&showing_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
