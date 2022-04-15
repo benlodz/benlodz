@@ -19,7 +19,11 @@ I'm an undergraduate studying Computer Information Systems at Baruch College
 <!--START_SECTION:waka-->
 
 ```text
-Markdown   0 secs          █████████████████████████   100.00 %
+VimL       31 mins         ██████████░░░░░░░░░░░░░░░   39.37 %
+Markdown   19 mins         ██████░░░░░░░░░░░░░░░░░░░   24.65 %
+C          13 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.51 %
+Bash       8 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.87 %
+expect     6 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.62 %
 C++        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
