@@ -19,12 +19,12 @@ I'm an undergraduate studying Computer Information Systems at Baruch College
 <!--START_SECTION:waka-->
 
 ```text
-C                2 hrs 17 mins   ████████████▒░░░░░░░░░░░░   49.02 %
-Markdown         54 mins         ████▓░░░░░░░░░░░░░░░░░░░░   19.31 %
-VimL             31 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.17 %
-Python           26 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.56 %
-Bash             9 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.34 %
-expect           6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.49 %
+C                2 hrs 42 mins   ████████████░░░░░░░░░░░░░   48.45 %
+Markdown         1 hr 24 mins    ██████▒░░░░░░░░░░░░░░░░░░   25.08 %
+VimL             31 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.33 %
+Python           26 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.99 %
+Bash             9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.79 %
+expect           6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.08 %
 ```
 
 <!--END_SECTION:waka-->
