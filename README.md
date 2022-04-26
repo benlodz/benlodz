@@ -19,8 +19,8 @@ I'm an undergraduate studying Computer Information Systems at Baruch College
 <!--START_SECTION:waka-->
 
 ```text
-C          1 hr 4 mins     ███████████████▓░░░░░░░░░   62.63 %
-Markdown   38 mins         █████████▒░░░░░░░░░░░░░░░   37.37 %
+Markdown   30 mins         █████████████▓░░░░░░░░░░░   54.40 %
+C          25 mins         ███████████▒░░░░░░░░░░░░░   45.60 %
 ```
 
 <!--END_SECTION:waka-->
