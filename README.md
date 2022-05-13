@@ -20,6 +20,7 @@ I'm an undergraduate studying Computer Information Systems at Baruch College
 
 ```text
 Text   6 mins          █████████████████████████   100.00 %
+Bash   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
