@@ -19,8 +19,9 @@ I'm an undergraduate studying Computer Information Systems at Baruch College
 <!--START_SECTION:waka-->
 
 ```text
-Text   6 mins          █████████████████████████   100.00 %
-Bash   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+C++     9 mins          ██████████████▓░░░░░░░░░░   59.07 %
+Text    6 mins          █████████▓░░░░░░░░░░░░░░░   38.93 %
+Other   0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.01 %
 ```
 
 <!--END_SECTION:waka-->
