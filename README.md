@@ -19,9 +19,9 @@ I'm an undergraduate studying Computer Information Systems at Baruch College
 <!--START_SECTION:waka-->
 
 ```text
-C++           2 hrs 15 mins   ████████████████████████▒   97.35 %
-Makefile      2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.58 %
-Other         1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.07 %
+C++           5 hrs 52 mins   ████████████████████████▓   98.62 %
+Makefile      3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.05 %
+Other         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 %
 ```
 
 <!--END_SECTION:waka-->
