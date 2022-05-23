@@ -19,12 +19,12 @@ I'm an undergraduate studying Computer Information Systems at Baruch College
 <!--START_SECTION:waka-->
 
 ```text
-C++           5 hrs 12 mins   █████████████████████▒░░░   84.93 %
-Bash          48 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.27 %
-Makefile      3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.02 %
-C             2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.78 %
-Markdown      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+C++           5 hrs 12 mins   █████████████████████░░░░   83.94 %
+Bash          48 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.11 %
+C             7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.94 %
+Makefile      3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.01 %
 Text          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+Objective-C   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
