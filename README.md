@@ -19,7 +19,8 @@ I'm an undergraduate studying Computer Information Systems at Baruch College
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+Bash   3 mins          ████████████████████░░░░░   80.47 %
+sh     0 secs          █████░░░░░░░░░░░░░░░░░░░░   19.53 %
 ```
 
 <!--END_SECTION:waka-->
