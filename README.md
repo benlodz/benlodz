@@ -19,12 +19,12 @@ I'm an undergraduate studying Computer Information Systems at Baruch College
 <!--START_SECTION:waka-->
 
 ```text
-C++          3 hrs           █████████████████████░░░░   84.00 %
-Vim Script   15 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.42 %
-Text         7 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.61 %
-xdefaults    4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.29 %
-Makefile     3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.50 %
-JSON         2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.15 %
+C++          3 hrs 12 mins   █████████████████████░░░░   84.64 %
+Vim Script   16 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.33 %
+Text         7 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.41 %
+xdefaults    4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.16 %
+Makefile     3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.42 %
+JSON         2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.01 %
 ```
 
 <!--END_SECTION:waka-->
