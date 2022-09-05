@@ -19,12 +19,12 @@ I'm an undergraduate studying Computer Information Systems at Baruch College
 <!--START_SECTION:waka-->
 
 ```text
-C            6 hrs 42 mins   ██████████████████████░░░   87.53 %
-Python       45 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.84 %
-expect       4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.94 %
-gitignore    4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.90 %
-Bash         3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.74 %
-Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
+C            8 hrs 12 mins   ██████████████████████░░░   87.43 %
+Python       45 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.03 %
+sshconfig    12 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.18 %
+expect       4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.76 %
+gitignore    4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.74 %
+Bash         3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.70 %
 ```
 
 <!--END_SECTION:waka-->
