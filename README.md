@@ -19,9 +19,7 @@ I'm an undergraduate studying Computer Information Systems at Baruch College
 <!--START_SECTION:waka-->
 
 ```text
-INI   10 mins         █████████████░░░░░░░░░░░░   52.12 %
-XML   9 mins          ███████████▓░░░░░░░░░░░░░   47.07 %
-CSS   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.82 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
