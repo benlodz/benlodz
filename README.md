@@ -14,7 +14,7 @@ I'm an undergraduate studying Computer Information Systems at Baruch College
 ![Tux Pengiun!](tux-linux-penguin.gif)
 [![my stats](https://github-readme-stats.vercel.app/api?username=benlodz&showing_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=benlodz&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=benlodz&layout=compact)](https://github.com/anuraghazra/github-readme-stats) ---> 
 
 <!--START_SECTION:waka-->
 
