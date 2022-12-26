@@ -1,13 +1,5 @@
-# Hi, my name is Ben! It's nice to see you! :penguin:
-I'm an undergraduate studying Computer Information Systems at Baruch College
-
-## :notebook: Interests 
-<ul>
-	<li> :game_die: Game Development </li>
-	<li> :octocat: Functional Programming </li>
-	<li> :free: FOSS </li>
-	<li> :japanese_goblin: Japanese language </li>
-</ul>
+# Howdy! :penguin:
+I'm currently working at Meta as an Apprentice System Technician.
 
 ## Statistics
 
