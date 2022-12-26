@@ -19,11 +19,12 @@ I'm an undergraduate studying Computer Information Systems at Baruch College
 <!--START_SECTION:waka-->
 
 ```text
-Bash         2 hrs 44 mins   ████████████████▒░░░░░░░░   65.74 %
-Vim Script   38 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.40 %
-conf         25 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.36 %
-C            8 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 %
-Other        4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.90 %
+Bash         2 hrs 26 mins   ████████████████████░░░░░   79.92 %
+conf         13 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.32 %
+Vim Script   7 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.10 %
+sh           6 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.50 %
+sshconfig    4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.49 %
+Markdown     2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.31 %
 ```
 
 <!--END_SECTION:waka-->
