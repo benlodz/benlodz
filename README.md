@@ -11,12 +11,12 @@ I'm currently working at Meta as an Apprentice System Technician.
 <!--START_SECTION:waka-->
 
 ```text
-Bash         1 hr 18 mins    ███████████████░░░░░░░░░░   59.58 %
-Markdown     22 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.19 %
-sshconfig    16 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.55 %
-sh           6 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.27 %
-conf         3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.02 %
-Vim Script   3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.39 %
+Bash         1 hr 26 mins    ███████████████░░░░░░░░░░   59.38 %
+Markdown     22 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.58 %
+sshconfig    13 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.29 %
+Vim Script   11 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.13 %
+sh           6 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.77 %
+conf         3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.74 %
 ```
 
 <!--END_SECTION:waka-->
