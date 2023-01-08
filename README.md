@@ -11,12 +11,9 @@ I'm currently working at Meta as an Apprentice System Technician.
 <!--START_SECTION:waka-->
 
 ```text
-Bash         14 mins         ██████████████▒░░░░░░░░░░   56.83 %
-Vim Script   8 mins          ████████▒░░░░░░░░░░░░░░░░   33.21 %
-JSON         1 min           █▓░░░░░░░░░░░░░░░░░░░░░░░   07.15 %
-Properties   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.17 %
-Text         0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.02 %
-Lua          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 %
+JSON         1 min           ███████████████████░░░░░░   76.54 %
+Properties   0 secs          ███░░░░░░░░░░░░░░░░░░░░░░   12.56 %
+Text         0 secs          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.89 %
 ```
 
 <!--END_SECTION:waka-->
