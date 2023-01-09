@@ -11,9 +11,7 @@ I'm currently working at Meta as an Apprentice System Technician.
 <!--START_SECTION:waka-->
 
 ```text
-JSON         1 min           ███████████████████░░░░░░   76.54 %
-Properties   0 secs          ███░░░░░░░░░░░░░░░░░░░░░░   12.56 %
-Text         0 secs          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.89 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
