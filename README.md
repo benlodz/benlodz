@@ -11,11 +11,11 @@ I'm currently working at Meta as an Apprentice System Technician.
 <!--START_SECTION:waka-->
 
 ```txt
-conf        56 mins         ██████████████████░░░░░░░   72.24 %
-confini     13 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.17 %
-kitty       7 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.36 %
-sshconfig   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 %
-systemd     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 %
+kitty       7 mins          ███████████████▓░░░░░░░░░   62.46 %
+conf        3 mins          ███████▒░░░░░░░░░░░░░░░░░   29.32 %
+sshconfig   0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   03.68 %
+systemd     0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.97 %
+INI         0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.56 %
 ```
 
 <!--END_SECTION:waka-->
