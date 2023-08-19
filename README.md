@@ -11,11 +11,11 @@ I'm currently working at Meta as an Apprentice System Technician.
 <!--START_SECTION:waka-->
 
 ```txt
-Python     5 hrs 44 mins   ██████████████████▓░░░░░░   74.88 %
-Bash       45 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.97 %
-Other      26 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.71 %
-JSON       21 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.70 %
-systemd    14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.20 %
+Python     5 hrs 23 mins   ██████████████████▒░░░░░░   73.81 %
+Bash       39 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.94 %
+GDScript   36 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.24 %
+JSON       21 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.93 %
+systemd    14 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.35 %
 ```
 
 <!--END_SECTION:waka-->
