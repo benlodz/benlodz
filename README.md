@@ -11,7 +11,8 @@ I'm currently working at Meta as an Apprentice System Technician.
 <!--START_SECTION:waka-->
 
 ```txt
-Python   1 min           █████████████████████████   100.00 %
+Python   1 min           ████████████████████░░░░░   79.80 %
+INI      0 secs          █████░░░░░░░░░░░░░░░░░░░░   20.20 %
 ```
 
 <!--END_SECTION:waka-->
