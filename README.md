@@ -11,8 +11,10 @@ I'm currently working at Meta as an Apprentice System Technician.
 <!--START_SECTION:waka-->
 
 ```txt
-YAML   22 mins         █████████████████████▒░░░   85.88 %
-Bash   3 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.12 %
+YAML     1 hr 4 mins     ████████████████▓░░░░░░░░   66.55 %
+Python   16 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.48 %
+Bash     9 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.93 %
+Lua      6 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.05 %
 ```
 
 <!--END_SECTION:waka-->
