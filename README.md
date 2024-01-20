@@ -11,10 +11,9 @@ I'm currently working at Meta as an Apprentice System Technician.
 <!--START_SECTION:waka-->
 
 ```txt
-desktop     4 mins          █████████████████████░░░░   84.62 %
-Other       0 secs          ██▒░░░░░░░░░░░░░░░░░░░░░░   08.69 %
-sshconfig   0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   03.43 %
-GDScript3   0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.26 %
+Other       0 secs          ██████████████░░░░░░░░░░░   56.51 %
+sshconfig   0 secs          █████▓░░░░░░░░░░░░░░░░░░░   22.27 %
+GDScript3   0 secs          █████▒░░░░░░░░░░░░░░░░░░░   21.21 %
 ```
 
 <!--END_SECTION:waka-->
