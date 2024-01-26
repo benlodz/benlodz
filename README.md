@@ -11,7 +11,8 @@ I'm currently working at Meta as an Apprentice System Technician.
 <!--START_SECTION:waka-->
 
 ```txt
-GDScript3   5 mins          █████████████████████████   100.00 %
+GDScript3   5 mins          ██████████████████████▒░░   89.03 %
+Python      0 secs          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.97 %
 ```
 
 <!--END_SECTION:waka-->
