@@ -11,7 +11,9 @@ I'm currently working at Meta as an Apprentice System Technician.
 <!--START_SECTION:waka-->
 
 ```txt
-INI   6 mins          █████████████████████████   100.00 %
+INI          6 mins          ████████████▓░░░░░░░░░░░░   51.10 %
+JavaScript   5 mins          ███████████▒░░░░░░░░░░░░░   45.99 %
+GDScript3    0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.91 %
 ```
 
 <!--END_SECTION:waka-->
