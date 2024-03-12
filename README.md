@@ -11,10 +11,9 @@ I'm currently working at Meta as an Apprentice System Technician.
 <!--START_SECTION:waka-->
 
 ```txt
-CMake   23 mins         ████████████████████░░░░░   79.80 %
-Bash    3 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.84 %
-INI     2 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.02 %
-Text    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 %
+CMake   23 mins         ████████████████████░░░░░   80.07 %
+Bash    3 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.88 %
+INI     2 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.05 %
 ```
 
 <!--END_SECTION:waka-->
