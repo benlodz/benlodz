@@ -11,7 +11,11 @@ I'm currently working at Meta as an Apprentice System Technician.
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+TeX        2 hrs 41 mins   ███████████████████▓░░░░░   78.63 %
+Python     0 hrs 23 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   11.01 %
+unknown    0 hrs 7 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.37 %
+YAML       0 hrs 6 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.01 %
+INI        0 hrs 5 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.47 %
 ```
 
 <!--END_SECTION:waka-->
