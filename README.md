@@ -1,5 +1,7 @@
 # Howdy! :penguin:
-I'm currently working at Meta as an Apprentice System Technician.
+
+I'm interested in Fullstack development and Vulkan.
+I primarily use Python but I also enjoy writing code in C++.
 
 ## Statistics
 
